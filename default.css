@@ -1,17 +1,17 @@
 :root {
-  --mainColor: #eaeaea;
-  --secondaryColor: #fff;
+  --mainColor: #15202b;
+  --secondaryColor: #192734;
 
-  --borderColor: #c1c1c1;
+  --borderColor: #164d56;
 
-  --mainText: #000000;
-  --secondaryText: #4b5156;
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
 
-  --themeDotBorder: #24292e;
+  --themeDotBorder: #fff;
 
-  --previewBg: rgb(251, 249, 243, 0.8);
+  --previewBg: rgb(25, 39, 52, 0.8);
 
-  --svgColor: #4b5156;
+  --svgColor: #eeeeee;
 }
 
 html,
